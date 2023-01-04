@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "courseTypeId": "f639b9f5-1235-434e-b1f9-6024c1b88551a",
+      "typeName": "FRONTENDa"
+    },
+    {
+      "courseTypeId": "90510af0-a6e4-4aa6-908f-5a27813412c6a",
+      "typeName": "BACKENDa"
+    },
+    {
+      "courseTypeId": "f639b9f5-1235-434e-b1f9-6024c1b88551b",
+      "typeName": "FRONTENDb"
+    },
+    {
+      "courseTypeId": "90510af0-a6e4-4aa6-908f-5a27813412c6b",
+      "typeName": "BACKENDb"
+    },
+    {
+      "courseTypeId": "f639b9f5-1235-434e-b1f9-6024c1b88551c",
+      "typeName": "FRONTENDc"
+    },
+    {
+      "courseTypeId": "90510af0-a6e4-4aa6-908f-5a27813412c6c",
+      "typeName": "BACKENDc"
+    },
+    {
+      "courseTypeId": "f639b9f5-1235-434e-b1f9-6024c1b88551d",
+      "typeName": "FRONTENDd"
+    },
+    {
+      "courseTypeId": "90510af0-a6e4-4aa6-908f-5a27813412c6d",
+      "typeName": "BACKENDd"
+    }
+  ],
+  "count": 2,
+  "totalPage": 4,
+  "page": 1,
+  "size": 5
+}
